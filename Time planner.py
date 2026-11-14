@@ -1,5 +1,5 @@
 # time_planner_notification.py
-# Requires: pip install plyer
+
 
 import time
 from datetime import datetime
